@@ -1,0 +1,19 @@
+assignment 1
+python libraries 
+1.pandas :
+pandas is a data manipulation package in Python for tabular data. the data are in the form of rows and columns, also known as DataFrames. Intuitively, we can think of a DataFrame as an Excel sheet.
+
+2.numpy :
+numPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra and matrices. NumPy was created in 2005 by Travis Oliphant. It is an open source project and we can use it freely.
+
+3.tersorflow:
+TensorFlow is an open-source machine learning library developed by Google. it is used to build and train deep learning models as it facilitates the creation of computational graphs and efficient execution on various hardware platforms.
+
+4.keras:
+Keras is a high-level, deep learning API developed by Google for implementing neural networks. It is written in Python and is used to make the implementation of neural networks easy. It also supports multiple backend neural network computation.
+
+5.pytorch:
+PyTorch is an open source machine learning (ML) framework based on the Python programming language and the Torch library. Torch is an open source ML library used for creating deep neural networks and is written in the Lua scripting language.
+
+6.Scikit-learn:
+the scikit is a famous Python library to work with complex data.it is an open-source library that supports machine learning. It supports variously supervised and unsupervised algorithms like linear regression, classification, clustering, etc. This library works in association with Numpy and SciPy.
